@@ -106,7 +106,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🕷️ | [Piloterr](https://www.piloterr.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Web scraping API that handles headless browsers and rotates proxies for you. | **50% OFF** for 3 months with code **BLACKFRIDAY50**, until Nov 30 |
 | 🔍 | [Autom](https://www.autom.dev/?ref=Awesome-Black-Friday-Cyber-Monday) | The cheapest Google Search API: fast, affordable SERP results across multiple search engines. | **50% OFF** one time on the Starter plan with code **BLACKFRIDAY50**, until Nov 30 |
 | 🌍 | [Babelize](https://www.babelize.co/?ref=Awesome-Black-Friday-Cyber-Monday#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | **50% OFF the first year** of Pro yearly with code **BLACKFRIDAY26**: ~~$84~~ **$42**/year. Until Dec 1, 2026 |
-| 🧭 | [Gitsum](https://grakken-github-repo-analyser.vercel.app/?utm_source=tonybf) | Paste any GitHub repo and get an interactive map of its architecture, then ask an AI questions about the code. Free to explore; Pro adds unlimited AI Q&A. | **50% OFF** Gitsum Pro for your first 3 months (~~$5~~ **$2.50**/mo), applied automatically at checkout. Until Nov 30, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
